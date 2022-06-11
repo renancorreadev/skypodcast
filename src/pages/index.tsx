@@ -1,11 +1,9 @@
 import type { NextPage } from "next"
 
-import { CalculateSum } from "../components/CalculateSum"
-
 const Home: NextPage = () => {
     return (
         <div>
-            <CalculateSum />
+            <h2>TEste</h2>
         </div>
     )
 }
